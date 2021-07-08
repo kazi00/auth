@@ -1,3 +1,3 @@
 # authentication system
-# laravel project basic
+# laravel (install) project basic
 # login and registration drash board
